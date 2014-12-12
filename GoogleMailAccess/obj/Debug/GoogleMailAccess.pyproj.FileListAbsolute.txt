@@ -1,0 +1,30 @@
+C:\Users\SzeLee\documents\visual studio 2013\Projects\GoogleMailAccess\GoogleMailAccess\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\SzeLee\documents\visual studio 2013\Projects\GoogleMailAccess\GoogleMailAccess\obj\Debug\attach_server.py
+C:\Users\SzeLee\documents\visual studio 2013\Projects\GoogleMailAccess\GoogleMailAccess\obj\Debug\visualstudio_py_debugger.py
+C:\Users\SzeLee\documents\visual studio 2013\Projects\GoogleMailAccess\GoogleMailAccess\obj\Debug\visualstudio_py_repl.py
+C:\Users\SzeLee\documents\visual studio 2013\Projects\GoogleMailAccess\GoogleMailAccess\obj\Debug\visualstudio_py_util.py
+C:\Users\SzeLee\documents\visual studio 2013\Projects\GoogleMailAccess\GoogleMailAccess\obj\Debug\__init__.py
+C:\Users\SzeLee\documents\visual studio 2013\Projects\GoogleMailAccess\GoogleMailAccess\obj\Debug\__main__.py
+C:\Users\SzeLee\documents\visual studio 2013\Projects\GoogleMailAccess\GoogleMailAccess\bin\AzureSetup.cfg
+C:\Users\SzeLee\documents\visual studio 2013\Projects\GoogleMailAccess\GoogleMailAccess\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\SzeLee\documents\visual studio 2013\Projects\GoogleMailAccess\GoogleMailAccess\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\SzeLee\documents\visual studio 2013\Projects\GoogleMailAccess\GoogleMailAccess\bin\wfastcgi.py
+C:\Users\SzeLee\documents\visual studio 2013\Projects\GoogleMailAccess\GoogleMailAccess\obj\Debug\deployment-updated-orig-prefix.txt
+C:\Users\SzeLee\documents\visual studio 2013\Projects\GoogleMailAccess\GoogleMailAccess\ptvs_virtualenv_proxy.py
+C:\Users\SzeLee\documents\visual studio 2013\Projects\GoogleMailAccess\GoogleMailAccess\obj\Debug\web.config
+C:\Users\SzeLee\documents\visual studio 2013\Projects\GoogleMailAccess\GoogleMailAccess\obj\Debug\web.debug.config
+D:\Django Projects\GoogleMailAccess\GoogleMailAccess\bin\Microsoft.PythonTools.WebRole.dll
+D:\Django Projects\GoogleMailAccess\GoogleMailAccess\obj\Debug\attach_server.py
+D:\Django Projects\GoogleMailAccess\GoogleMailAccess\obj\Debug\visualstudio_py_debugger.py
+D:\Django Projects\GoogleMailAccess\GoogleMailAccess\obj\Debug\visualstudio_py_repl.py
+D:\Django Projects\GoogleMailAccess\GoogleMailAccess\obj\Debug\visualstudio_py_util.py
+D:\Django Projects\GoogleMailAccess\GoogleMailAccess\obj\Debug\__init__.py
+D:\Django Projects\GoogleMailAccess\GoogleMailAccess\obj\Debug\__main__.py
+D:\Django Projects\GoogleMailAccess\GoogleMailAccess\bin\AzureSetup.cfg
+D:\Django Projects\GoogleMailAccess\GoogleMailAccess\bin\Microsoft.PythonTools.AzureSetup.exe
+D:\Django Projects\GoogleMailAccess\GoogleMailAccess\bin\Microsoft.PythonTools.AzureSetup.exe.config
+D:\Django Projects\GoogleMailAccess\GoogleMailAccess\bin\wfastcgi.py
+D:\Django Projects\GoogleMailAccess\GoogleMailAccess\obj\Debug\deployment-updated-orig-prefix.txt
+D:\Django Projects\GoogleMailAccess\GoogleMailAccess\ptvs_virtualenv_proxy.py
+D:\Django Projects\GoogleMailAccess\GoogleMailAccess\obj\Debug\web.config
+D:\Django Projects\GoogleMailAccess\GoogleMailAccess\obj\Debug\web.debug.config
